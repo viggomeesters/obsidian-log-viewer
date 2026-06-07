@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with CSV TSV Viewer
+about: Report a problem with Log Viewer
 title: "[Bug]: "
 labels: bug
 assignees: ""
@@ -22,11 +22,11 @@ What did you expect to happen?
 
 ## Sample data
 
-If possible, attach or paste a minimal synthetic CSV/TSV file. Do not include private vault content.
+If possible, attach or paste a minimal synthetic log file. Do not include private vault content.
 
 ## Environment
 
 - App version:
-- CSV TSV Viewer version:
+- Log Viewer version:
 - Desktop or mobile:
 - Operating system:

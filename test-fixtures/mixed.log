@@ -1,0 +1,8 @@
+2026-06-07T20:57:13Z INFO Started log viewer build
+2026-06-07 20:57:14 WARN Config file missing: ./config.yaml
+20260607-2057 ERROR Failed to parse /tmp/output.jsonl
+    at parseLog (/tmp/src/parser.ts:12:3)
+    at main (/tmp/src/main.ts:88:5)
+1717785451 DEBUG retry scheduled
+[2026-06-07T20:57:15+02:00] TRACE refresh complete
+plain text without structure

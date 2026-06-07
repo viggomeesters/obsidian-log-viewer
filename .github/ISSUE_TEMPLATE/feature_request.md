@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an improvement for CSV TSV Viewer
+about: Suggest an improvement for Log Viewer
 title: "[Feature]: "
 labels: enhancement
 assignees: ""
@@ -12,8 +12,8 @@ What workflow would this improve?
 
 ## Proposed behavior
 
-What should CSV TSV Viewer do?
+What should Log Viewer do?
 
 ## Data impact
 
-Would this require editing files, clipboard access, network access, charts, formulas, or exports?
+Would this require editing files, clipboard access, network access, live tailing, exports, or extra parsing heuristics?

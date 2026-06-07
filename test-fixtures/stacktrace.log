@@ -1,0 +1,6 @@
+2026-06-07T20:57:13Z ERROR Request failed
+Traceback (most recent call last):
+  File "agent.py", line 10, in run
+    raise RuntimeError("boom")
+RuntimeError: boom
+2026-06-07T20:57:14Z INFO Recovered

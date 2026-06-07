@@ -7,8 +7,8 @@
 - [ ] `npm run build`
 - [ ] `npx tsc --noEmit`
 - [ ] `npm test`
-- [ ] Tested `.csv`
-- [ ] Tested `.tsv`
+- [ ] Tested `.log`
+- [ ] Tested severity/timestamp filters
 
 ## Security
 
