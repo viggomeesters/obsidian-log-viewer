@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">Log Viewer screenshot</title>
+  <desc id="desc">A log view with toolbar, summary pills, severity filters and line numbers.</desc>
+  <rect width="1280" height="760" fill="#1f2026"/>
+  <rect x="48" y="40" width="1184" height="680" rx="16" fill="#23242a" stroke="#3c3d45"/>
+  <rect x="48" y="40" width="1184" height="58" rx="16" fill="#2a2b31"/>
+  <circle cx="80" cy="69" r="8" fill="#ff5f57"/>
+  <circle cx="106" cy="69" r="8" fill="#ffbd2e"/>
+  <circle cx="132" cy="69" r="8" fill="#28c840"/>
+  <text x="86" y="144" fill="#f4f4f5" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="750">agent-run.log</text>
+  <text x="86" y="174" fill="#a7a7ad" font-family="Menlo, Consolas, monospace" font-size="14">20_files/2026-06/agent-run.log</text>
+  <rect x="736" y="126" width="190" height="32" rx="7" fill="#191b20" stroke="#45454c"/>
+  <text x="762" y="147" fill="#d4d4d8" font-family="Inter, Arial, sans-serif" font-size="13">Filter</text>
+  <rect x="940" y="126" width="76" height="32" rx="7" fill="#3f3f46"/>
+  <text x="968" y="147" fill="#f4f4f5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Log</text>
+  <rect x="1024" y="126" width="82" height="32" rx="7" fill="#27272a" stroke="#45454c"/>
+  <text x="1052" y="147" fill="#d4d4d8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Raw</text>
+  <rect x="86" y="206" width="96" height="28" rx="14" fill="#191b20" stroke="#3c3d45"/>
+  <text x="106" y="225" fill="#d4d4d8" font-family="Menlo, Consolas, monospace" font-size="13">240 lines</text>
+  <rect x="194" y="206" width="112" height="28" rx="14" fill="#191b20" stroke="#3c3d45"/>
+  <text x="214" y="225" fill="#d4d4d8" font-family="Menlo, Consolas, monospace" font-size="13">210 stamped</text>
+  <rect x="318" y="206" width="142" height="28" rx="14" fill="#191b20" stroke="#3c3d45"/>
+  <text x="338" y="225" fill="#d4d4d8" font-family="Menlo, Consolas, monospace" font-size="13">3 errors</text>
+  <rect x="86" y="260" width="1094" height="424" rx="10" fill="#111827" stroke="#3c3d45"/>
+  <rect x="86" y="260" width="1094" height="44" rx="10" fill="#29313f"/>
+  <g fill="#d7dce8" font-family="Menlo, Consolas, monospace" font-size="14">
+    <text x="112" y="288">#</text>
+    <text x="184" y="288">timestamp</text>
+    <text x="384" y="288">level</text>
+    <text x="584" y="288">message</text>
+  </g>
+  <g fill="#e6d85c" font-family="Menlo, Consolas, monospace" font-size="14">
+    <text x="112" y="346">1</text><text x="184" y="346">20:57:13</text><text x="384" y="346">INFO</text><text x="584" y="346">started build</text>
+    <text x="112" y="406">2</text><text x="184" y="406">20:57:14</text><text x="384" y="406">WARN</text><text x="584" y="406">config missing</text>
+    <text x="112" y="466">3</text><text x="184" y="466">20:57:15</text><text x="384" y="466">ERROR</text><text x="584" y="466">parse failed</text>
+    <text x="112" y="526">4</text><text x="184" y="526">20:57:16</text><text x="384" y="526">INFO</text><text x="584" y="526">recovered</text>
+  </g>
+  <g stroke="#29313f">
+    <line x1="154" y1="260" x2="154" y2="684"/>
+    <line x1="354" y1="260" x2="354" y2="684"/>
+    <line x1="554" y1="260" x2="554" y2="684"/>
+    <line x1="754" y1="260" x2="754" y2="684"/>
+    <line x1="86" y1="364" x2="1180" y2="364"/>
+    <line x1="86" y1="424" x2="1180" y2="424"/>
+    <line x1="86" y1="484" x2="1180" y2="484"/>
+    <line x1="86" y1="544" x2="1180" y2="544"/>
+  </g>
+</svg>

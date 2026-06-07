@@ -1,0 +1,10 @@
+{
+  "id": "log-viewer",
+  "name": "Log Viewer",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Open .log files as a read-only viewer with filters, timestamps, severity badges, and raw source.",
+  "author": "Viggo Meesters",
+  "authorUrl": "https://github.com/viggomeesters",
+  "isDesktopOnly": false
+}
