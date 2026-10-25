@@ -150,7 +150,7 @@ function closingWrapperLength(matchText: string, valueEnd: number): number {
 }
 
 function detectSeverity(text: string, offset: number): SeverityMatch | null {
-  const match = /(?:^|[\s:[({<-])((?:FATAL|ERROR|ERR|WARNING|WARN|INFO|DEBUG|TRACE))(?:[\]\)}:>\s-]|$)/i.exec(text);
+  const match = /(?:^|[\s:[({<-])((?:FATAL|ERROR|ERR|WARNING|WARN|INFO|DEBUG|TRACE))(?:[\])}:>\s-]|$)/i.exec(text);
   if (!match || match.index > 16) return null;
 
   const raw = match[1];
