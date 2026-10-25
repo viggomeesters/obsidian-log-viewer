@@ -44,11 +44,9 @@ Logs are evidence. Editing or normalizing them can damage timestamps, stack trac
 
 ### Community plugin directory
 
-Log Viewer is prepared for Community plugin directory submission. Once accepted, it can be installed from **Settings -> Community plugins -> Browse**.
+Install from the [Obsidian Community directory](https://community.obsidian.md/plugins/log-viewer) or search for Log Viewer in Settings → Community plugins → Browse.
 
 ### Manual installation
-
-Until the community directory submission is accepted:
 
 1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/viggomeesters/obsidian-log-viewer/releases/latest).
 2. Create this folder in your vault: `.obsidian/plugins/log-viewer/`.
@@ -96,20 +94,9 @@ Community plugin files are installed from GitHub releases. For each release:
 3. Create a GitHub release whose tag exactly matches `manifest.json.version`.
 4. Attach `main.js`, `manifest.json`, and `styles.css` as release assets.
 
-## Community directory submission
+## Community directory
 
-The repository is prepared for Community plugin submission. The remaining submission step must be completed by the repository owner because it requires signing in, linking GitHub, and confirming the developer policies/support commitment.
-
-Submit this repository URL:
-
-```text
-https://github.com/viggomeesters/obsidian-log-viewer
-```
-
-Official references:
-
-- [Submit your plugin](https://docs.obsidian.md/Plugins/Releasing/Submit%20your%20plugin)
-- [Obsidian releases repository](https://github.com/obsidianmd/obsidian-releases)
+Log Viewer is listed in the [Obsidian Community directory](https://community.obsidian.md/plugins/log-viewer).
 
 ## License
 
